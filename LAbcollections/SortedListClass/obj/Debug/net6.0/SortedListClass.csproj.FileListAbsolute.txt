@@ -1,0 +1,15 @@
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\bin\Debug\net6.0\SortedListClass.exe
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\bin\Debug\net6.0\SortedListClass.deps.json
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\bin\Debug\net6.0\SortedListClass.runtimeconfig.json
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\bin\Debug\net6.0\SortedListClass.dll
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\bin\Debug\net6.0\SortedListClass.pdb
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.csproj.AssemblyReference.cache
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.AssemblyInfoInputs.cache
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.AssemblyInfo.cs
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.csproj.CoreCompileInputs.cache
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.dll
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\refint\SortedListClass.dll
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.pdb
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\SortedListClass.genruntimeconfig.cache
+D:\Aptech\S2\C#\Arraylistclass\SortedListClass\obj\Debug\net6.0\ref\SortedListClass.dll
